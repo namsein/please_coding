@@ -1,0 +1,10 @@
+body {
+    font-family: "Marcellus","Noto Sans KR", sans-serif ;
+}
+
+*{ margin: 0; padding: 0;}
+img { border: 0; }
+ul,li { display: flex; text-decoration: none;}
+a { list-style: none; color: #040A2B; text-decoration: none;
+display: block;}
+
